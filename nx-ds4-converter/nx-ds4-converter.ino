@@ -18,7 +18,7 @@
 
 //User Config
 //Please enter your dualshock4 mac address
-static const char * remote_addr_string = "28:C1:3C:89:01:5E";
+static const char * remote_addr_string = "FF:FF:FF:FF:FF:FF";
 //Mac address used by the USB device(little endian)
 uint8_t mac_address[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};
 //Controller color hex code
