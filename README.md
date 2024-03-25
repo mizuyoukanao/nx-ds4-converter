@@ -9,11 +9,15 @@ https://github.com/earlephilhower/arduino-pico
 本リポジトリをダウンロードし、arduino IDEで.inoファイルを開きます。
 
 **remote_addr_stringを必ずお持ちのdualshock4のmacアドレスに変更してください。**
+
 ![image1](image/image4.png)
+
 ボードとコンパイルオプションは以下の3点に気を付けてください。
+
 ![image2](image/image1.png)
 ![image3](image/image2.png)
 ![image4](image/image3.png)
+
 コンパイル・書き込みが終わったらdualshock4のSHARE+PSボタンを同時押しし、LEDの点滅中にpico WをNintendo Switchに挿すと動かせるようになります。
 
 ## inplemention
